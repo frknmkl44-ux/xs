@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742259280712",
+    "project_id": "kurye-1db2f",
+    "storage_bucket": "kurye-1db2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742259280712:android:d49ef383349cc039d7c17d",
+        "android_client_info": {
+          "package_name": "com.msn.msn_kurye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALi974bDUOyTYeJsHfLQc8EgI30GWDibU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
